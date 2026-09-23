@@ -22,7 +22,7 @@ This section contains my self-made master notes, official Cisco certificates, an
 ## 3️⃣ Networking Basics
 
 - 📄 **Notes:** [Cisco_Networking_Basics_Notes.pdf](./Networking-Basics/Cisco_Networking_Basics_Notes.pdf)
-- 🏆 **Certificate:** [Certificate_Networking_Basics.jpg](./Networking-Basics/Certificate_Networking_Basics.jpg)
+- 🏆 **Certificate:** [Certificate_Networking_Basics.jpg](./Networking-Basics/Certificate_Networking_Basics.jpg.jpg)
 - 🎖️ **Badge:** [Badge_Networking_Basics.jpg](./Networking-Basics/Badge_Networking_Basics.jpg)
 - 🔗 **Verify Badge:** [View on Credly](https://www.credly.com/badges/00480162-a945-46dd-b4c7-270fd4209580/public_url)
 
