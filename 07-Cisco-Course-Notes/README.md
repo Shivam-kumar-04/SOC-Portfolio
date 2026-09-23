@@ -12,7 +12,7 @@ This section contains my self-made master notes, official Cisco certificates, an
 
 ## 2️⃣ Introduction to Cybersecurity
 
-- 📄 **Notes:** [Cybersecurity_Introduction_Notes-1.pdf](./Introduction-to-Cybersecurity_Introduction_Notes-1.pdf)
+- 📄 **Notes:** [Cybersecurity_Introduction_Notes-1.pdf](./Introduction-to-Cybersecurity/Cybersecurity_Introduction_Notes-1.pdf)
 - 🏆 **Certificate:** [Certificate_Introduction_to_Cybersecurity.jpg](./Introduction-to-Cybersecurity/Certificate_Introduction_To_Cybersecurity.jpg.jpg)
 - 🎖️ **Badge:** [Badge_Introduction_To_Cybersecurity.jpg](./Introduction-to-Cybersecurity/Badge_Introduction_To_Cybersecurity.jpg)
 - 🔗 **Verify Badge:** [View on Credly](https://www.credly.com/badges/8beb322a-fd83-4e4f-8e39-8729636cac2c)
