@@ -6,3 +6,6 @@
 Reviewed and updated every 6 months to stay aligned with current industry hiring standards.
 - **Final Locked version for 12 months (sem 2 - Aug 2026 to Aug 2027):** 
 - 📜**Final Roadmap :📌** [SOC_L1_RoadmapV2_copyright.pdf](./SOC_L1_RoadmapV2_copyright.pdf)
+
+-**English B2 Roadmap To reach (B1 from to B2) in December 2026:**
+- 📜**English B2 Fluency:**[English_B2_Roadmap_Redesigned_copyright.pdf](./English_B2_Roadmap_Redesigned_copyright.pdf)
