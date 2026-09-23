@@ -5,3 +5,4 @@
 
 Reviewed and updated every 6 months to stay aligned with current industry hiring standards.
 - **Final Locked version for 12 months (sem 2 - Aug 2026 to Aug 2027):** 
+- 📜**Final Roadmap :📌** [Cisco_Packet_Tracer_Certificate.jpg](./Packet-Tracer/Cisco_Packet_Tracer_Certificate.jpg)
