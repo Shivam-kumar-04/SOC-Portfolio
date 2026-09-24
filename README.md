@@ -17,3 +17,8 @@ Wireshark | Splunk | Wazuh | Windows Event Viewer
 
 ## 📁 Repository Structure
 Coming soon as I progress...
+
+---
+
+## 🎓 Cisco Certifications
+See [07-Cisco-Course-Notes](./07-Cisco-Course-Notes/README.md) for completed Cisco Networking Academy courses — self-made notes, certificates, and verified Credly badges.
