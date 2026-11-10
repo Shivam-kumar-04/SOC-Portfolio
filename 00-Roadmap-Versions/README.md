@@ -8,4 +8,4 @@ Reviewed and updated every 6 months to stay aligned with current industry hiring
 - 📜**Final Roadmap :📌** [SOC_L1_Roadmap.pdf](./SOC_L1_Roadmap.pdf)
 
 -**English B2 Roadmap To reach (B1 from to B2) in December 2026:**
-- 📜**English B2 Fluency:**[English_B2_Roadmap_.pdf](./English_B2_Roadmap.pdf)
+- 📜**English B2 :**[English_B2_Roadmap_.pdf](./English_B2_Roadmap_.pdf)
